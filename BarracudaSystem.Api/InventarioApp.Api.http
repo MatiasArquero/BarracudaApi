@@ -1,0 +1,7 @@
+@BarracudaSystem.Api_HostAddress = http://localhost:5058
+
+GET {{BarracudaSystem.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BarracudaSystem.Api/BarracudaSystem.Api.csproj" />
+  <Project Path="BarracudaSystem.Application/BarracudaSystem.Application.csproj" />
+  <Project Path="BarracudaSystem.Domain/BarracudaSystem.Domain.csproj" />
+  <Project Path="BarracudaSystem.Infrastructure/BarracudaSystem.Infrastructure.csproj" />
+</Solution>
+
